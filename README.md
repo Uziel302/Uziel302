@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Uziel302
 - 👀 I’m interested in web and content
 - 🌱 I’m currently learning PHP
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on languages content online
 - 📫 How to reach me: 302302302v at you can guess
 
 <!---
