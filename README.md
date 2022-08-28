@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Uziel302
 - 👀 I’m interested in web and content
+- Worked two years as a developer in ecommerce website, now looking for new challenges.
 - 📫 How to reach me: 302302302v at you can guess
 
 <!---
